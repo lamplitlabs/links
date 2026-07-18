@@ -24,7 +24,7 @@ const item = {
 
 const socialOrder = [
     "web", "github", "blog", "linkedin", "instagram",
-    "twitter", "youtube", "facebook", "tiktok", "snapchat",
+    "x", "twitter", "youtube", "facebook", "tiktok", "snapchat",
 ] as const;
 
 export const Social = ({ socialLink }: SocialProps) => {

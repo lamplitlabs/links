@@ -28,7 +28,7 @@ There are two configuraiton file
     "facebook": "",
     "snapchat": "",
     "tiktok": "",
-    "twitter": "",
+    "x": "",
     "youtube": ""
   }
 }
