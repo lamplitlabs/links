@@ -191,6 +191,7 @@ export function getSocialIcon(brand: string) {
         case "github": return GitHubIcon;
         case "linkedin": return LinkedInIcon;
         case "instagram": return InstagramIcon;
+        case "x": return TwitterIcon;
         case "blog": return BlogIcon;
         case "web": return GlobeIcon;
         case "youtube": return YouTubeIcon;

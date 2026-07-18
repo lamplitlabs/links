@@ -17,4 +17,5 @@ export type SocialLink = {
     youtube?: string;
     web?: string;
     github?: string;
+    x?: string;
 };
