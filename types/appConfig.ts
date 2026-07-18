@@ -17,6 +17,4 @@ export type SocialLink = {
     youtube?: string;
     web?: string;
     github?: string;
-    mastodon?: string;
-    threads?: string;
 };
