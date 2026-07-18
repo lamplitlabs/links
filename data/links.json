@@ -12,21 +12,17 @@
     "tools": [
         {
             "title": "Resume Builder",
-            "link": "https://resume.bitesinbyte.com/"
+            "link": "https://resume.lamplitlabs.com/"
         },
         {
             "title": "EDMX Tools",
-            "link": "https://edmx.bitesinbyte.com/"
+            "link": "https://edmx.lamplitlabs.com/"
         }
     ],
     "blog": [
         {
-            "title": "Medium",
-            "link": "https://medium.bitesinbyte.com"
-        },
-        {
-            "title": "Bites in byte - Blog",
-            "link": "https://blogs.bitesinbyte.com"
+            "title": "Lamplit Labs Blog",
+            "link": "https://blogs.lamplitlabs.com"
         }
     ]
 }

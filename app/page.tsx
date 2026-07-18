@@ -5,7 +5,7 @@ import Image from "next/image";
 import { LinkSection } from "@/components/link";
 import { Social } from "@/components/social";
 import { AnimatedBackground } from "@/components/animated-background";
-import { WhyBitesInByte } from "@/components/why-bitesinbyte";
+import { WhyLamplitLabs } from "@/components/why-lamplit-labs";
 import getConfig from "@/utils/configUtils";
 import getLinkData from "@/utils/linksUtils";
 
@@ -82,9 +82,9 @@ export default function Home() {
 						</motion.div>
 					)}
 
-					{/* Why Bites In Byte */}
+					{/* Why Lamplit Labs */}
 					<motion.div className="w-full mt-8" {...fadeUp(0.75)}>
-						<WhyBitesInByte />
+						<WhyLamplitLabs />
 					</motion.div>
 				</div>
 
@@ -107,16 +107,16 @@ export default function Home() {
 							<span className="text-sm font-semibold">{config.brandName}</span>
 						</div>
 						<p className="text-xs text-[var(--text-secondary)] leading-relaxed max-w-xs">
-							Small, practical software packed into every byte.
+							Practical tools that solve real problems.
 						</p>
 						<div className="flex flex-wrap justify-center gap-x-4 gap-y-1 text-xs text-[var(--text-secondary)]">
-							<a href="https://www.bitesinbyte.com/#products" target="_blank" rel="noopener noreferrer" className="hover:text-[var(--accent-1)] transition-colors">Products</a>
-							<a href="https://www.bitesinbyte.com/#about" target="_blank" rel="noopener noreferrer" className="hover:text-[var(--accent-1)] transition-colors">About</a>
-							<a href="https://blogs.bitesinbyte.com/" target="_blank" rel="noopener noreferrer" className="hover:text-[var(--accent-1)] transition-colors">Blog</a>
-							<a href="https://www.bitesinbyte.com/#contact" target="_blank" rel="noopener noreferrer" className="hover:text-[var(--accent-1)] transition-colors">Contact</a>
+							<a href="https://www.lamplitlabs.com/#products" target="_blank" rel="noopener noreferrer" className="hover:text-[var(--accent-1)] transition-colors">Products</a>
+							<a href="https://www.lamplitlabs.com/#about" target="_blank" rel="noopener noreferrer" className="hover:text-[var(--accent-1)] transition-colors">About</a>
+							<a href="https://blogs.lamplitlabs.com/" target="_blank" rel="noopener noreferrer" className="hover:text-[var(--accent-1)] transition-colors">Blog</a>
+							<a href="https://www.lamplitlabs.com/#contact" target="_blank" rel="noopener noreferrer" className="hover:text-[var(--accent-1)] transition-colors">Contact</a>
 						</div>
 						<p className="text-[0.65rem] text-[var(--text-secondary)] opacity-60 pb-6">
-							&copy; {new Date().getFullYear()} Bites In Byte. All rights reserved.
+							&copy; {new Date().getFullYear()} Lamplit Labs. All rights reserved.
 						</p>
 					</div>
 				</motion.footer>

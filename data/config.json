@@ -1,15 +1,15 @@
 {
-    "mainImageSource": "apple-touch-icon.png",
-    "mainImageAlt": "Bites In Byte Logo",
-    "brandName": "Bites In Byte",
-    "description": "Building tools that make a difference — small, practical software packed into every byte.",
+    "mainImageSource": "lamplitlabs-mark.svg",
+    "mainImageAlt": "Lamplit Labs logo",
+    "brandName": "Lamplit Labs",
+    "description": "Building practical tools that solve real problems.",
     "socialLinks": {
-        "instagram": "https://www.instagram.com/bitesinbyte",
-        "linkedin": "https://www.linkedin.com/company/bitesinbyte",
-        "blog": "https://blogs.bitesinbyte.com",
-        "web": "https://www.bitesinbyte.com",
-        "github": "https://github.com/bitesinbyte",
-        "mastodon": "https://me.dm/@bitesinbyte",
-        "threads": "https://www.threads.net/@bitesinbyte"
+        "instagram": "https://www.instagram.com/lamplitlabs",
+        "linkedin": "https://www.linkedin.com/company/lamplitlabs",
+        "blog": "https://blogs.lamplitlabs.com",
+        "web": "https://www.lamplitlabs.com",
+        "github": "https://github.com/lamplitlabs",
+        "mastodon": "https://me.dm/@lamplitlabs",
+        "threads": "https://www.threads.net/@lamplitlabs"
     }
 }

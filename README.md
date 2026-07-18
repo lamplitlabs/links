@@ -1,17 +1,17 @@
-![CodeQL](https://github.com/bitesinbyte/links/actions/workflows/codeql.yml/badge.svg?branch=main)
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/bitesinbyte/links/badge)](https://securityscorecards.dev/viewer/?uri=github.com/bitesinbyte/links)
+![CodeQL](https://github.com/lamplitlabs/links/actions/workflows/codeql.yml/badge.svg?branch=main)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/lamplitlabs/links/badge)](https://securityscorecards.dev/viewer/?uri=github.com/lamplitlabs/links)
 
 # Links
 
 Simple and easy to use links organiser for your social media accounts
 
-Demo - https://bitesinbyte.github.io/links
+Demo - https://lamplitlabs.github.io/links
 
 ## Configuration
 
 There are two configuraiton file
 
-1. [`config.json`](https://github.com/bitesinbyte/links/blob/main/data/config.json)
+1. [`config.json`](https://github.com/lamplitlabs/links/blob/main/data/config.json)
 
 ```json
 {
@@ -34,7 +34,7 @@ There are two configuraiton file
 }
 ```
 
-2. [`links.json`](https://github.com/bitesinbyte/links/blob/main/data/links.json)
+2. [`links.json`](https://github.com/lamplitlabs/links/blob/main/data/links.json)
 
 ```json
 {
@@ -44,7 +44,7 @@ There are two configuraiton file
       "link": "link"
     },
     {
-      "title": "Bites in byte - Blog",
+      "title": "Lamplit Labs Blog",
       "link": "link"
     }
   ],
@@ -77,7 +77,7 @@ There are two configuraiton file
 clone the repository, run the following command:
 
 ```bash
-git clone https://github.com/bitesinbyte/links.git
+git clone https://github.com/lamplitlabs/links.git
 ```
 
 ### Install dependencies
@@ -94,4 +94,4 @@ npm run dev
 
 ## License
 
-Licensed under the [MIT license](https://github.com/bitesinbyte/links/blob/main/LICENSE).
+Licensed under the [MIT license](https://github.com/lamplitlabs/links/blob/main/LICENSE).

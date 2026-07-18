@@ -1,6 +1,6 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-	name: "Bites In Byte | Links",
-	description: "Simple and easy to use links organiser for your social media accounts"
+	name: "Lamplit Labs | Links",
+	description: "Lamplit Labs builds practical tools that solve real problems."
 };
